@@ -1,34 +1,34 @@
 initStore([
     {
         id: 1,
-        title: 'Чорна ікра преміум-класу',
+        title: 'Elden Ring',
         description:
-            'Чорна ікра від виробника, натуральна ікра без консервантів, ідеально підходить для гурманів. Ви можете купити чорну ікру онлайн з доставкою по Україні. Свіжа ікра в скляних банках, що зберігає свіжість і смак. Ідеальна для подарункових наборів.',
-        price: 799,
+            'Erkunden Sie eine riesige offene Welt voller Geheimnisse und Herausforderungen in Elden Ring. Ein Action-Rollenspiel, das für seine fesselnde Atmosphäre und anspruchsvolle Kämpfe bekannt ist. Für PC und Konsole erhältlich.',
+        price: 59.99,
         image: 'images/catalog-item-1.jpg',
     },
     {
         id: 2,
-        title: 'Червона ікра з доставкою',
+        title: 'Halo Infinite',
         description:
-            'Свіжа червона ікра з доставкою по Україні. Ікра преміум-класу, без консервантів, в скляних банках для збереження свіжості. Замовте червону ікру онлайн і насолоджуйтеся високоякісним продуктом прямо з виробника.',
-        price: 499,
+            'Tauchen Sie ein in die epische Sci-Fi-Kampagne von Halo Infinite. Erleben Sie intensive Mehrspieler-Schlachten und eine packende Story auf der Xbox-Konsole und PC. Jetzt online bestellen.',
+        price: 49.99,
         image: 'images/catalog-item-2.jpg',
     },
     {
         id: 3,
-        title: 'Ікра для гурманів в скляних банках',
+        title: 'Age of Empires IV',
         description:
-            'Натуральна ікра преміум-класу, яка підходить для справжніх гурманів. Придбати ікру можна онлайн, доставка по Україні. Ідеальна для святкових моментів або як частина подарункових наборів.',
-        price: 999,
+            'Baue deine Zivilisation auf und führe sie zum Sieg in Age of Empires IV, dem neuesten Teil der beliebten Strategiespiel-Reihe. Verfügbar für PC mit Echtzeit-Strategie und historischen Schlachten.',
+        price: 59.99,
         image: 'images/catalog-item-3.jpg',
     },
     {
         id: 4,
-        title: 'Подарункові набори з ікрою',
+        title: 'God of War Ragnarök',
         description:
-            'Подарункові набори з червоною ікрою або чорної ікри преміум-класу. Натуральна ікра без консервантів, доставлена прямо до вашого дому. Ідеальний подарунок для гурманів. Доставка по Україні.',
-        price: 1299,
+            'Setzen Sie Kratos’ epische Reise im neuesten Teil der God of War-Reihe fort. Ein spannendes Action-Adventure exklusiv für PlayStation-Konsolen. Sichern Sie sich Ihr Exemplar online.',
+        price: 69.99,
         image: 'images/catalog-item-4.jpg',
     },
 ]);
